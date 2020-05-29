@@ -12,4 +12,7 @@ new Vue({
   router,
   render: h => h(Test1)
 })
-//xiugai
+//这是三个测试
+//这是第三个测试
+//这是第三个测试
+//这是第4个测试
