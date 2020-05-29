@@ -12,3 +12,4 @@ new Vue({
   router,
   render: h => h(Test1)
 })
+//这是一个测试
